@@ -43,6 +43,6 @@
    ```
 
 ---
+Desenvolvido por [Eduardo Gonçalves](https://github.com/edunetviper) para o challenge da FIAP.
 
-Funções:
 
