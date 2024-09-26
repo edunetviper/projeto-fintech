@@ -1,27 +1,27 @@
 # Moneygment
 
-###Moneygment### é um sistema de gestão de finanças pessoais que permite aos usuários monitorar suas despesas diárias de forma simples e eficiente. Ele oferece funcionalidades básicas de gerenciamento financeiro, como inserir, excluir, listar e alterar despesas, utilizando um modelo CRUD (Create, Read, Update, Delete).
+**Moneygment** é um sistema de gestão de finanças pessoais que permite aos usuários monitorar suas despesas diárias de forma simples e eficiente. Ele oferece funcionalidades básicas de gerenciamento financeiro, como inserir, excluir, listar e alterar despesas, utilizando um modelo CRUD (Create, Read, Update, Delete).
 
 ## Funcionalidades
-- ###Clique no botão de adicionar do menu para adicionar e remover lancamentos como receitas ou despesas;
-- ###Clique no botão à esquerda do botão de adicionar para vizualizar, editar e excluir os lançamentos;
-- ###Inserir Despesa###: Adicione novas despesas com informações como descrição, valor e data.
-- ###Excluir Despesa###: Remova despesas indesejadas ou incorretas do sistema.
-- ###Listar Despesas###: Exiba todas as despesas cadastradas de forma organizada.
-- ###Alterar Despesa###: Edite as informações de uma despesa já cadastrada.
+- **Clique no botão de adicionar do menu para adicionar e remover lancamentos como receitas ou despesas**;
+- **Clique no botão à esquerda do botão de adicionar para vizualizar, editar e excluir os lançamentos**;
+- **Inserir Despesa**: Adicione novas despesas com informações como descrição, valor e data.
+- **Excluir Despesa**: Remova despesas indesejadas ou incorretas do sistema.
+- **Listar Despesas**: Exiba todas as despesas cadastradas de forma organizada.
+- **Alterar Despesa**: Edite as informações de uma despesa já cadastrada.
 
 ## Tecnologias Utilizadas
 
-- ###Java (Servlets)###: Implementação das regras de negócio e controle de fluxo entre frontend e backend.
-- ###JSP (JavaServer Pages)###: Geração dinâmica de páginas web e interação com o usuário.
-- ###Bootstrap###: Criação de uma interface responsiva e amigável.
-- ###JavaScript###: Validações no frontend e interações dinâmicas.
-- ###OracleSQL###: Banco de dados utilizado para armazenamento seguro das despesas.
+- **Java (Servlets)**: Implementação das regras de negócio e controle de fluxo entre frontend e backend.
+- **JSP (JavaServer Pages)**: Geração dinâmica de páginas web e interação com o usuário.
+- **Bootstrap**: Criação de uma interface responsiva e amigável.
+- **JavaScript**: Validações no frontend e interações dinâmicas.
+- **OracleSQL**: Banco de dados utilizado para armazenamento seguro das despesas.
 
 ## Estrutura do Projeto
 
-- ###src/###: Contém os arquivos de código-fonte do backend (Java, Servlets).
-- ###WebContent/###: Contém as páginas JSP e arquivos estáticos (HTML, CSS, JavaScript).
+- **src/**: Contém os arquivos de código-fonte do backend (Java, Servlets).
+- **WebContent/**: Contém as páginas JSP e arquivos estáticos (HTML, CSS, JavaScript).
 
 ## Como Executar
 
